@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment1.params=p
+comment1.target=java.util.List\ legalMoves(Piece)
+numComments=2
